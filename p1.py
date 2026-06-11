@@ -1,0 +1,3 @@
+print("hello world")
+
+print("Python is one of the most popular programming languages. It’s simple to use, packed with features and supported by a wide range of libraries and frameworks. Its clean syntax makes it beginner-friendly.")
